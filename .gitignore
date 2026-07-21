@@ -230,3 +230,6 @@ crash.*.log
 keys/
 *-credentials.json
 *-service-account.json
+
+# Datos de volúmenes de Postgres (Docker)
+ny_taxi_postgres_data/
